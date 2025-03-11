@@ -21,8 +21,8 @@ Built a simple QR code
 
 ### Links
 
-- Solution URL: 
-- Live Site URL: 
+- Solution URL: https://github.com/Rupa135/frontend_mentor_QR_Code
+- Live Site URL: https://rupa135.github.io/frontend_mentor_QR_Code/
 ### Built with
 
 - Semantic HTML5 markup
